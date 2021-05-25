@@ -2,6 +2,7 @@ import styled from 'styled-components/native'
 
 export const Container = styled.View`
     flex: 1;
+    padding: 20px;
 `;
 
 export const HeaderArea = styled.View`
@@ -15,4 +16,9 @@ export const HeaderTitle = styled.Text`
     font-size: 18px;
     font-weight: bold;
     color: #FFF;
+`;
+
+export const ListArea = styled.View`
+    margin-top: 30px;
+    margin-bottom: 30px;
 `;

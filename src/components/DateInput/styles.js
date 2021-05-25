@@ -11,7 +11,6 @@ export const DateButton = styled.TouchableOpacity`
     border-radius: 6px;
     flex-direction: row;
     align-items: center;
-    margin: 0 30px;
 `;
 
 export const DateText = styled.Text`
