@@ -22,3 +22,11 @@ export const ListArea = styled.View`
     margin-top: 30px;
     margin-bottom: 30px;
 `;
+
+export const Scroller = styled.ScrollView`
+    flex: 1;
+`;
+
+export const DateTimeArea = styled.View`
+    margin: 5px;
+`;
